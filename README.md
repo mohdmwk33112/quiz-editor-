@@ -53,7 +53,7 @@ The script initializes two variables, $courseid and $idquiz, which represent the
 
 HTML Structure:
 The script generates the basic structure of an HTML document, including the <head> and <body> sections.
-It displays the title of the quiz as an <h2> heading.
+It displays the title of the quiz as an heading.
 
 Timer Implementation:
 The script calculates the duration of the quiz in milliseconds based on the quiz's duration retrieved from the database.
